@@ -13,3 +13,7 @@ pub fn maximum_wealth(accounts: Vec<Vec<i32>>) -> i32 {
     }
     return max;
 }
+
+fn main(){
+    
+}
